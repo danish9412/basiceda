@@ -9,7 +9,7 @@ Created on Mon Feb 25 16:55:00 2019
 from flask import Flask
 from flask import request
 from flask import jsonify
-import NewsEmotions
+import eda
  
 app = Flask(__name__)
 # HTTPRequestHandler class
